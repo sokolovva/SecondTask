@@ -1,0 +1,8 @@
+C:\Users\petya\Desktop\tasks\DepedenciesResolving\DepedenciesResolving\bin\Debug\DepedenciesResolving.exe.config
+C:\Users\petya\Desktop\tasks\DepedenciesResolving\DepedenciesResolving\bin\Debug\DepedenciesResolving.exe
+C:\Users\petya\Desktop\tasks\DepedenciesResolving\DepedenciesResolving\bin\Debug\DepedenciesResolving.pdb
+C:\Users\petya\Desktop\tasks\DepedenciesResolving\DepedenciesResolving\bin\Debug\Newtonsoft.Json.dll
+C:\Users\petya\Desktop\tasks\DepedenciesResolving\DepedenciesResolving\bin\Debug\Newtonsoft.Json.xml
+C:\Users\petya\Desktop\tasks\DepedenciesResolving\DepedenciesResolving\obj\Debug\DepedenciesResolving.csprojResolveAssemblyReference.cache
+C:\Users\petya\Desktop\tasks\DepedenciesResolving\DepedenciesResolving\obj\Debug\DepedenciesResolving.exe
+C:\Users\petya\Desktop\tasks\DepedenciesResolving\DepedenciesResolving\obj\Debug\DepedenciesResolving.pdb
